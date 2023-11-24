@@ -168,7 +168,9 @@ If, for whatever reason, you are not able to remove the boot files from the Wind
 
 ### Installing Boot Camp Software
 
-To get started, download the Brigadier utility from the following link:
+To get started, download from 7-zip.org 
+
+Then download the Brigadier utility from the following link:
 
 * [Download Brigadier](https://github.com/timsutton/brigadier/releases/download/0.2.4/brigadier.exe)
 
@@ -191,6 +193,9 @@ To get started, download the Brigadier utility from the following link:
 * [Download Brigadier](https://github.com/timsutton/brigadier/releases/download/0.2.4/brigadier.exe)
 
 Once Brigadier is downloaded, move it to your desktop for easy access.
+
+For Brigadier to work you will need to [Download and Install the version of 7-Zip which was latest at the time of the Brigadier.exe's release date]([https://github.com/timsutton/brigadier/releases/download/0.2.4/brigadier.exe](https://www.7-zip.org/download.html))
+
 
 Open up a command prompt window as a standard user and run `cd desktop`.
 
